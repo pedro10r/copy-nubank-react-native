@@ -1,4 +1,4 @@
-# Copy Nubank Apr 2020
+# Copy Nubank - Apr 2020
 
 <div>
   <img align="center" alt="1" height="400em" width="200em" src="https://github.com/PedroSantosRocha/copy-nubank-react-native/blob/master/screenshots/Screenshot_20200424-131534_Nubank.jpg">
